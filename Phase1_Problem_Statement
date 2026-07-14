@@ -1,0 +1,25 @@
+Problem Definition
+Driving schools in Rwanda (and similar contexts) manage student registration, instructor scheduling, vehicle allocation, lesson tracking, and government exam scheduling largely through paper registers or basic spreadsheets. This causes double-booking of instructors/vehicles, lost payment records, and no way to track a student's progress toward their driving test eligibility.
+Context of Use
+A driving school with multiple instructors, a limited fleet of vehicles, and students enrolled in different license categories (motorcycle, light vehicle, heavy truck) needs a system to manage the full student lifecycle — from registration to theory/practical lessons to final exam scheduling.
+Target Users
+
+School administrators (register students, manage payments, generate reports)
+Instructors (view their schedule, log completed lessons)
+Management (view revenue, vehicle utilization, pass rates via dashboards)
+
+Project Objectives
+
+Digitize student registration and package/category enrollment
+Automate instructor and vehicle scheduling, preventing double-booking
+Track lesson attendance and progress toward exam eligibility
+Track payments and outstanding balances per student
+Enforce business rules (e.g., no transactions on weekdays/holidays) with full audit logging
+Provide analytics on revenue, pass rates, and instructor performance
+
+Expected Benefits
+
+Reduced scheduling conflicts
+Accurate financial tracking
+Data-driven decisions on vehicle/instructor allocation
+Full audit trail for accountability
